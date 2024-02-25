@@ -1,0 +1,7 @@
+﻿CfExecute
+CfConnectSyncRoot
+CfDisconnectSyncRoot
+CfReportProviderProgress
+CfCreatePlaceholders
+CreateFile
+ISearchManager
